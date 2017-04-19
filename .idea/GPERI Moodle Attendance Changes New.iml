@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/lti/service/profile/classes" isTestSource="false" packagePrefix="ltiservice_profile" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/enrol/imsenterprise/classes" isTestSource="false" packagePrefix="enrol_imsenterprise" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/lib/classes" isTestSource="false" packagePrefix="core" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/grade/report/grader/classes" isTestSource="false" packagePrefix="gradereport_grader" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/resource/classes" isTestSource="false" packagePrefix="mod_resource" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/report/log/classes" isTestSource="false" packagePrefix="report_log" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/report/stats/classes" isTestSource="false" packagePrefix="report_stats" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/book/classes" isTestSource="false" packagePrefix="mod_book" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/lesson/classes" isTestSource="false" packagePrefix="mod_lesson" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/report/questioninstances/classes" isTestSource="false" packagePrefix="report_questioninstances" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/capability/classes" isTestSource="false" packagePrefix="tool_capability" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/workshop/classes" isTestSource="false" packagePrefix="mod_workshop" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/messageinbound/classes" isTestSource="false" packagePrefix="tool_messageinbound" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/lib/horde/framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/folder/classes" isTestSource="false" packagePrefix="mod_folder" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/log/store/legacy/classes" isTestSource="false" packagePrefix="logstore_legacy" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/report/outline/classes" isTestSource="false" packagePrefix="report_outline" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/question/classes" isTestSource="false" packagePrefix="core_question" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/data/classes" isTestSource="false" packagePrefix="mod_data" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/lti/service/toolproxy/classes" isTestSource="false" packagePrefix="ltiservice_toolproxy" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/lib/minify/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/imscp/classes" isTestSource="false" packagePrefix="mod_imscp" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/blocks/comments/classes" isTestSource="false" packagePrefix="block_comments" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/scorm/classes" isTestSource="false" packagePrefix="mod_scorm" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/report/participation/classes" isTestSource="false" packagePrefix="report_participation" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/log/store/database/classes" isTestSource="false" packagePrefix="logstore_database" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/assign/submission/file/classes" isTestSource="false" packagePrefix="assignsubmission_file" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/assign/submission/comments/classes" isTestSource="false" packagePrefix="assignsubmission_comments" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/grade/report/history/classes" isTestSource="false" packagePrefix="gradereport_history" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/feedback/classes" isTestSource="false" packagePrefix="mod_feedback" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/quiz/classes" isTestSource="false" packagePrefix="mod_quiz" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/attendance/classes" isTestSource="false" packagePrefix="mod_attendance" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/report/loglive/classes" isTestSource="false" packagePrefix="report_loglive" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/lib/editor/atto/classes" isTestSource="false" packagePrefix="editor_atto" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/glossary/classes" isTestSource="false" packagePrefix="mod_glossary" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/grade/report/user/classes" isTestSource="false" packagePrefix="gradereport_user" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/grade/report/singleview/classes" isTestSource="false" packagePrefix="gradereport_singleview" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/grade/report/outcomes/classes" isTestSource="false" packagePrefix="gradereport_outcomes" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/lti/classes" isTestSource="false" packagePrefix="mod_lti" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/wiki/classes" isTestSource="false" packagePrefix="mod_wiki" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/assign/classes" isTestSource="false" packagePrefix="mod_assign" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/log/store/standard/classes" isTestSource="false" packagePrefix="logstore_standard" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/url/classes" isTestSource="false" packagePrefix="mod_url" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/monitor/classes" isTestSource="false" packagePrefix="tool_monitor" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/log/classes" isTestSource="false" packagePrefix="tool_log" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/assignment/classes" isTestSource="false" packagePrefix="mod_assignment" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/assign/submission/onlinetext/classes" isTestSource="false" packagePrefix="assignsubmission_onlinetext" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/lib/editor/tinymce/classes" isTestSource="false" packagePrefix="editor_tinymce" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/forum/classes" isTestSource="false" packagePrefix="mod_forum" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/book/tool/exportimscp/classes" isTestSource="false" packagePrefix="booktool_exportimscp" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/grade/report/overview/classes" isTestSource="false" packagePrefix="gradereport_overview" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/chat/classes" isTestSource="false" packagePrefix="mod_chat" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/lti/service/toolsettings/classes" isTestSource="false" packagePrefix="ltiservice_toolsettings" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/admin/tool/langimport/classes" isTestSource="false" packagePrefix="tool_langimport" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/survey/classes" isTestSource="false" packagePrefix="mod_survey" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/choice/classes" isTestSource="false" packagePrefix="mod_choice" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/report/completion/classes" isTestSource="false" packagePrefix="report_completion" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/course/classes" isTestSource="false" packagePrefix="core_course" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/book/tool/print/classes" isTestSource="false" packagePrefix="booktool_print" />
+      <sourceFolder url="file://$MODULE_DIR$/moodle/mod/page/classes" isTestSource="false" packagePrefix="mod_page" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
